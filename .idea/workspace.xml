@@ -50,7 +50,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todolist/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
+            <state relative-caret-position="-177">
               <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
               <folding />
             </state>
@@ -60,10 +60,22 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todos/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="9" column="90" lean-forward="false" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todos/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,9 +110,10 @@
       <list>
         <option value="$PROJECT_DIR$/todos/urls.py" />
         <option value="$PROJECT_DIR$/todos/views.py" />
-        <option value="$PROJECT_DIR$/todos/models.py" />
         <option value="$PROJECT_DIR$/todolist/settings.py" />
         <option value="$PROJECT_DIR$/todolist/urls.py" />
+        <option value="$PROJECT_DIR$/todos/admin.py" />
+        <option value="$PROJECT_DIR$/todos/models.py" />
       </list>
     </option>
   </component>
@@ -285,6 +298,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/todos/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/todos/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -297,7 +320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todolist/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
+        <state relative-caret-position="-177">
           <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
           <folding />
         </state>
@@ -305,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todos/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="297">
+          <caret line="9" column="90" lean-forward="false" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
