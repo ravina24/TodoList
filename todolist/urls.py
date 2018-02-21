@@ -19,5 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('todos/', include('todos.urls')),
-    path('', include('todos.urls')),
+    #path('', include('todos.urls')), !!!comment out for now so I can make migrations todos
 ]
