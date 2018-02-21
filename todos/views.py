@@ -54,3 +54,15 @@ def edit(request, id):
     else:
         return render(request, 'edit.html', context)
 
+def delete(request, id):
+    todo = Todo.objects.get(id=id)
+
+    context = {
+        'todo': todo
+    }
+
+    if(request.method == 'POST'):
+        Todo.delete(todo)
+        return redirect('/todos')
+    else:
+        return render(request, 'delete.html', context)
